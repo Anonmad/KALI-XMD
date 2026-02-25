@@ -1,9 +1,9 @@
 {
-  "name": "SPACE-MD",
-  "description": "SPACE-MD, your day to day assistant!",
+  "name": "KALI-XMD",
+  "description": "KALI-XMD, your day to day assistant!",
   "logo": "https://files.catbox.moe/ia1mgm.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/SPACE-MD",
+  "repository": "https://github.com/Anonmad/KALI-XMD",
   "stack": "container",
   "addons": [
     {
@@ -21,7 +21,7 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "255619615065",
     "required": true
   },
   "GITHUB_USERNAME": {
@@ -31,7 +31,7 @@
   },
    "BOT_PASSWORD": {
     "description": "This will be used as auth code for others who'll connect using the app web",
-    "value": "12345678",
+    "value": "KALIOS01",
     "required": false
   },
    "PREMIUM_KEY": {
