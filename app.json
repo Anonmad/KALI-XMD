@@ -3,7 +3,7 @@
   "description": "KALI-XMD, your day to day assistant!",
   "logo": "https://files.catbox.moe/ia1mgm.jpg",
   "keywords": [],
-  "repository": "https://github.com/Anonmad",
+  "repository": "https://github.com/Anonmad/KALI-XMD",
   "stack": "container",
   "addons": [
     {
